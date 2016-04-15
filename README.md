@@ -9,3 +9,6 @@ little_or_big_ebdian.c
 
 swap_better.c
 一个更好的交换两个数值的算法，运用了异或定理
+
+word_count.c
+统计输入流的行数，单词数与字符数
